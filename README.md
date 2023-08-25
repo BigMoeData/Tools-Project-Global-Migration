@@ -6,7 +6,7 @@ Each focuses on a different aspect of the data collection, cleaning and preperat
 
 A summary of the conclusions can be found in the PowerPoint presentation : Tracking Global Migration
 
- - 01-Data Cleaning.ipynb
+ - 01-Data Cleaning.ipynb : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BigMoeData/Tools-Project-Global-Migration/HEAD?labpath=01-Data%20Cleaning.ipynb)
  - 02-Generate_Range_Data.ipynb
  - 03-Global_Intro_Chart.ipynb
  - 04-Net_Migation_2000_2019.ipynb
